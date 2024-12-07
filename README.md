@@ -9,5 +9,5 @@ Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class un
 
 • Method ubah(nama) untuk mengubah data berdasarkan nama
 
-![Screenshot 2024-12-07 111224](https://github.com/user-attachments/assets/fe347e5d-0e4f-4ea8-ad08-3dbd2ea8bcdd)
-![Screenshot 2024-12-07 111303](https://github.com/user-attachments/assets/f5b70728-9c3b-4e93-a53b-829ddd3678a6)
+![Screenshot 2024-12-07 111303](https://github.com/user-attachments/assets/904510ea-082c-4da1-b223-531323570a0d)
+![Screenshot 2024-12-07 111224](https://github.com/user-attachments/assets/7197fce8-5ad7-47c5-b8bc-4a334650e943)
