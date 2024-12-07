@@ -31,3 +31,17 @@ Class mahasiswa
 - Jika tidak ditemukan, akan mencetak pesan bahwa data mahasiswa tidak ditemukan.
 
 # Run
+![Screenshot 2024-12-07 111446](https://github.com/user-attachments/assets/f65a1ac8-84e2-491b-ab90-d9e9c4af007b)
+
+# Diagram Class
+![Screenshot 2024-12-07 171710](https://github.com/user-attachments/assets/0dae7ffb-19b7-437f-9c49-d7d4a0d2728e)
+
+- Nama Class : Mahasiswa
+- Atribut : -daftar_mahasiswa (Tanda minus (-) menunjukkan bahwa atribut bersifat private (hanya dapat diakses dari dalam kelas).
+- Metode :
+- init(): konstruktor kelas yang dipanggil saat kita membuat instance baru dari kelas Mahasiswa. Metode ini menginisialisasi atribut daftar_mahasiswa sebagai list kosong.
+- tambah(nama: str, nilai: int): untuk menambahkan data mahasiswa baru ke dalam daftar_mahasiswa. Ia menerima dua parameter: nama (tipe string) dan nilai (tipe integer). Setelah menambahkan data, metode ini juga memberikan konfirmasi bahwa data telah berhasil ditambahkan.
+- tampilkan(): untuk menampilkan semua data mahasiswa yang ada dalam daftar_mahasiswa. Jika daftar kosong, metode ini akan mencetak pesan bahwa daftar mahasiswa kosong. Jika ada data, ia akan mencetak nama dan nilai setiap mahasiswa.
+- hapus(nama: str): untuk menghapus data mahasiswa berdasarkan nama. Ia mencari mahasiswa dengan nama yang diberikan, dan jika ditemukan, data tersebut dihapus dari daftar_mahasiswa. Jika tidak ditemukan, metode ini akan mencetak pesan bahwa data mahasiswa tidak ditemukan.
+- ubah(nama: str, nilai_baru: int): untuk mengubah nilai mahasiswa berdasarkan nama. Ia mencari mahasiswa dengan nama yang diberikan, dan jika ditemukan, nilai mahasiswa tersebut diubah menjadi nilai_baru. Jika tidak ditemukan, metode ini akan mencetak pesan bahwa data mahasiswa tidak ditemukan.
+
