@@ -46,5 +46,5 @@ Class mahasiswa
 - ubah(nama: str, nilai_baru: int): untuk mengubah nilai mahasiswa berdasarkan nama. Ia mencari mahasiswa dengan nama yang diberikan, dan jika ditemukan, nilai mahasiswa tersebut diubah menjadi nilai_baru. Jika tidak ditemukan, metode ini akan mencetak pesan bahwa data mahasiswa tidak ditemukan.
 
 # Flowchart
-![Screenshot 2024-12-08 075619](https://github.com/user-attachments/assets/1b988e03-7762-4b2c-aa60-3d9e2791d286)
+![IMG-20241208-WA0015](https://github.com/user-attachments/assets/3b36c9a7-6aeb-4fd1-bf3e-39a16e03139c)
 
