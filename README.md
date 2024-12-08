@@ -48,14 +48,3 @@ Class mahasiswa
 # Flowchart
 ![Screenshot 2024-12-08 075619](https://github.com/user-attachments/assets/1b988e03-7762-4b2c-aa60-3d9e2791d286)
 
-Penjelasan Flowchart
-- Mulai Program : Program dimulai.
-- Buat Objek Mhs : Membuat objek dari kelas Mahasiswa.
-- Tambah Siswa : Menambah siswa dengan nama "Navyta" dan nilai 85.
-- Tambah Siswa : Menambah siswa dengan nama "jay" dan nilai 90.
-- Tampilkan Mahasiswa : Menampilkan daftar mahasiswa yang telah ditambahkan.
-- Ubah Nilai : Mengubah nilai siswa "Navyta" menjadi 95.
-- Tampilkan Mahasiswa : Menampilkan daftar mahasiswa setelah perubahan nilai.
-- Hapus Mahasiswa : menghapus mahasiswa dengan nama "jay".
-- Tampilkan Mahasiswa : Menampilkan daftar mahasiswa setelah penghapusan.
-- Selesai : Program selesai.
