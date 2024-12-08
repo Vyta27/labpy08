@@ -34,7 +34,7 @@ Class mahasiswa
 ![Screenshot 2024-12-07 111446](https://github.com/user-attachments/assets/f65a1ac8-84e2-491b-ab90-d9e9c4af007b)
 
 # Diagram Class
-![Screenshot 2024-12-07 171710](https://github.com/user-attachments/assets/0dae7ffb-19b7-437f-9c49-d7d4a0d2728e)
+![Screenshot 2024-12-08 080008](https://github.com/user-attachments/assets/b28d1629-982a-4b90-8465-1d6e63aa7a3f)
 
 - Nama Class : Mahasiswa
 - Atribut : -daftar_mahasiswa (Tanda minus (-) menunjukkan bahwa atribut bersifat private (hanya dapat diakses dari dalam kelas).
@@ -45,3 +45,17 @@ Class mahasiswa
 - hapus(nama: str): untuk menghapus data mahasiswa berdasarkan nama. Ia mencari mahasiswa dengan nama yang diberikan, dan jika ditemukan, data tersebut dihapus dari daftar_mahasiswa. Jika tidak ditemukan, metode ini akan mencetak pesan bahwa data mahasiswa tidak ditemukan.
 - ubah(nama: str, nilai_baru: int): untuk mengubah nilai mahasiswa berdasarkan nama. Ia mencari mahasiswa dengan nama yang diberikan, dan jika ditemukan, nilai mahasiswa tersebut diubah menjadi nilai_baru. Jika tidak ditemukan, metode ini akan mencetak pesan bahwa data mahasiswa tidak ditemukan.
 
+# Flowchart
+![Screenshot 2024-12-08 075619](https://github.com/user-attachments/assets/1b988e03-7762-4b2c-aa60-3d9e2791d286)
+
+Penjelasan Flowchart
+- Mulai Program : Program dimulai.
+- Buat Objek Mhs : Membuat objek dari kelas Mahasiswa.
+- Tambah Siswa : Menambah siswa dengan nama "Navyta" dan nilai 85.
+- Tambah Siswa : Menambah siswa dengan nama "jay" dan nilai 90.
+- Tampilkan Mahasiswa : Menampilkan daftar mahasiswa yang telah ditambahkan.
+- Ubah Nilai : Mengubah nilai siswa "Navyta" menjadi 95.
+- Tampilkan Mahasiswa : Menampilkan daftar mahasiswa setelah perubahan nilai.
+- Hapus Mahasiswa : menghapus mahasiswa dengan nama "jay".
+- Tampilkan Mahasiswa : Menampilkan daftar mahasiswa setelah penghapusan.
+- Selesai : Program selesai.
